@@ -16,10 +16,10 @@ This repository contains all previous FSDL practical assignments and a hosted pe
 - Assignment 04 — Weather monitoring dashboard (D3.js)
 
 ## Hosted Profile Website
-Live Link: https://your-username.github.io/fsdl-practical-assignments/
+Live Link: https://ruturajwarkad.github.io/fsdl-practical-assignments/
 
 ## Repository Link
-https://github.com/your-username/fsdl-practical-assignments
+https://github.com/ruturajwarkad/fsdl-practical-assignments
 
 ## Deployment
 
