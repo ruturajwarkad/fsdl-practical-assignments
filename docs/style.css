@@ -1,0 +1,66 @@
+body {
+  padding-top: 70px;
+  font-family: 'Segoe UI', sans-serif;
+}
+/* Navbar */
+.navbar {
+  background-color: #111;
+}
+/* Hero Section */
+.hero {
+  background: linear-gradient(135deg, #0d6efd, #6610f2);
+  color: white;
+  padding: 100px 0;
+}
+.hero h1 {
+  font-size: 3rem;
+  font-weight: bold;
+}
+.profile-img {
+  width: 160px;
+  height: 160px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 4px solid white;
+  margin-bottom: 20px;
+}
+/* Section Titles */
+.section-title {
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 30px;
+}
+/* Skills */
+.skill-box {
+  background: white;
+  padding: 12px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  font-weight: 500;
+  margin-bottom: 10px;
+}
+/* Projects / Assignments cards */
+.project-card {
+  border: none;
+  box-shadow: 0 0 15px rgba(0,0,0,0.1);
+  transition: transform 0.3s;
+}
+.project-card:hover {
+  transform: translateY(-5px);
+}
+/* Contact */
+.contact-section {
+  background-color: #111;
+  color: white;
+  padding: 60px 0;
+}
+/* Footer */
+.footer {
+  background-color: #222;
+  color: white;
+  padding: 15px;
+  font-size: 0.9rem;
+}
+@media screen and (max-width: 768px) {
+  .hero h1 { font-size: 2rem; }
+}
