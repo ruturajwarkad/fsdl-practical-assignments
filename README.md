@@ -21,5 +21,16 @@ Live Link: https://your-username.github.io/fsdl-practical-assignments/
 ## Repository Link
 https://github.com/your-username/fsdl-practical-assignments
 
+## Deployment
+
+- **GitHub Repository:** https://github.com/ruturajwarkad/fsdl-practical-assignments
+- **GitHub Pages:** https://ruturajwarkad.github.io/fsdl-practical-assignments/
+
 ## Technologies Used
-Git, GitHub, HTML, CSS, JavaScript, Bootstrap, D3.js, GitHub Pages
+
+- HTML5
+- CSS3
+- JavaScript
+- Git
+- GitHub
+- GitHub Pages
